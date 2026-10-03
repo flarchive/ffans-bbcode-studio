@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of ffans/bbcode-studio.** Not for installation: use [Packagist](https://packagist.org/packages/ffans/bbcode-studio) or the [upstream repository](https://github.com/FFans/bbcode-studio).
 
-**0** versions archived · Latest: [`v2.0.0-beta.2`](https://github.com/flarchive/ffans-bbcode-studio/tree/archive/v2.0.0-beta.2) · License: `MIT` · Flarum: `^2.0.0`
+**2** versions archived · Latest: [`v2.0.0-beta.2`](https://github.com/flarchive/ffans-bbcode-studio/tree/archive/v2.0.0-beta.2) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v2.0.0-beta.1` | 2026-08-29 | `^2.0.0` | [Browse](https://github.com/flarchive/ffans-bbcode-studio/tree/archive/v2.0.0-beta.1) |
+| `v2.0.0-beta.2` | 2026-09-10 | `^2.0.0` | [Browse](https://github.com/flarchive/ffans-bbcode-studio/tree/archive/v2.0.0-beta.2) |
 
 Catalog entry: [packages/ffans-bbcode-studio.json](https://github.com/flarchive/archive-index/blob/main/packages/ffans-bbcode-studio.json)
 
